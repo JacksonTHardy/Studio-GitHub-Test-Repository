@@ -1,0 +1,8 @@
+Production/group=false
+Production/image=icons/obj16/conn_green.png
+Production/url=https\://e2-enterprise-services1.myworkday.com/ccx
+Sandbox/default=true
+Sandbox/group=false
+Sandbox/image=icons/obj16/conn_yellow.png
+Sandbox/url=https\://e2-impl-cci.workday.com/ccx
+eclipse.preferences.version=1

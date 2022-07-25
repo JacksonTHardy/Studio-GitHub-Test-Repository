@@ -1,0 +1,4 @@
+auto-publish-local=false
+auto-publish-remote=false
+eclipse.preferences.version=1
+runtimes=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<runtimes>\r\n  <runtime id\="Workday Runtime" location\="C\:/Users/AlexWill/AppData/Local/WD/studio/plugins/com.workday.wtp.cloud.runtime.a_2022.11.2155/" name\="Workday Runtime" runtime-type-id\="com.workday.cloud.runtime.wdscl" timestamp\="1"/>\r\n</runtimes>\r\n

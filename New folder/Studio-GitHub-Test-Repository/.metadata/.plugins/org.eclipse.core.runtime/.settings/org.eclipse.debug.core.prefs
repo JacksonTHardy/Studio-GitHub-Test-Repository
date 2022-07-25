@@ -1,0 +1,2 @@
+//org.eclipse.debug.core.PREFERRED_DELEGATES/org.eclipse.jdt.junit.launchconfig=com.capeclear.wtp.ws.junit.launchDelegate,debug,;com.capeclear.wtp.ws.junit.launchDelegate,run,;
+eclipse.preferences.version=1
